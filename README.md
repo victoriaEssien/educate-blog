@@ -1,6 +1,6 @@
 <h1>
   <p align="center" ><b>
-    Hacktoberfest'2022
+   ✨✨ Hacktoberfest'2022 ✨✨
     <br/>
     <br/>
     React WebSite / Strapi CMS
