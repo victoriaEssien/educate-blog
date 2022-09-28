@@ -24,7 +24,7 @@ The goal of this project is to help anyone (of any level) contribute to an open 
 ### Purpose of this project is to implement a blog where users will be able to post articles related to tech.
 
 Therefore feel free to contribute if:
-1. you are a beginner, mid or senior level Flutter Developer
+1. you are a beginner, mid or senior level Developer
 2. you are a designer
 3. you will be documentating the code
 4. you will be working on the server side
