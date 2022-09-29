@@ -20,23 +20,22 @@ Hacktoberfest is a month long celebration of open source software by DigitalOcea
 
 ## Project Maintainers :
 
-<h2 align="center">Admin</h2>
+<h2 align="center">Admins</h2>
 
 <table align="center">
-<tr>
-<td align="center"><a href="https://github.com/richarddushime"><img src="https://user-images.githubusercontent.com/98539013/192951702-dc1ddfee-60ec-4d73-b730-0043595265d4.jpeg" width=150px height=150px /></a></br> <h4  style="color:blue">Dushime Mudahera Richard</h4><br>
-</td>
-</tr>
-</table>
-<br>
-<table align="center">
-<tr>
-<td align="center"><a href="https://github.com/mdnazisharman2803"><img src="https://user-images.githubusercontent.com/98539013/192952215-c2bf7950-93eb-4cf5-80ae-0b3dc95b3754.png" width=150px height=150px /></a></br> <h4 style="color:limegreen;">Md Nazish Arman</h4><br/></td>
-</tr>
+	<tr>
+		<td>
+		<a href="https://github.com/richarddushime"><img  src="https://user-images.githubusercontent.com/98539013/192951702-dc1ddfee-60ec-4d73-b730-0043595265d4.jpeg" width=200px height=150px /></a></br> <h4  style="color:blue">Dushime Mudahera Richard</h4><br>
+		</td>
+    <td>
+		<a href="https://github.com/mdnazisharman2803"><img src="https://user-images.githubusercontent.com/98539013/192952215-c2bf7950-93eb-4cf5-80ae-0b3dc95b3754.png" width=150px height=150px /></a></br> <h4 style="color:limegreen;">Md Nazish Arman</h4><br/>
+		</td>
+	</tr>
 </table>
 <br>
 
 ## About this repository
+
 This repository is beginner friendly with designs that will be available for implementation when we will be creating issues - if designs are not available and required then we will create an issue for that as well. 
 
 The goal of this project is to help anyone (of any level) contribute to an open source project during the hacktoberfest.
