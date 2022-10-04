@@ -34,6 +34,18 @@ Hacktoberfest is a month long celebration of open source software by DigitalOcea
 </table>
 <br>
 
+## Screenshots
+
+
+![Registration Page](https://user-images.githubusercontent.com/79677353/193424735-d3334a3f-042e-43dc-9e41-cee2e776733b.png)
+
+![Login Page](https://user-images.githubusercontent.com/79677353/193424712-16b4ec37-9586-438d-b37b-026c46181d8a.png)
+
+![Choose stack page](https://user-images.githubusercontent.com/79677353/193424742-684871b4-d0b0-4f39-aebb-d15f828897d4.png)
+
+![For-you Home page](https://user-images.githubusercontent.com/79677353/193424744-e15bfe00-53e3-4fe2-ad7f-b7b3f4aecb4e.png)
+
+
 ## About this repository
 
 This repository is beginner friendly with designs that will be available for implementation when we will be creating issues - if designs are not available and required then we will create an issue for that as well. 
